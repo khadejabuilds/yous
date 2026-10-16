@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="yous logo">
+  <rect width="1000" height="1000" fill="#FFFFFF"/>
+  <!-- Y -->
+  <path fill="#000000" d="M386 229L500 354L614 229L676 284L542 433V603A42 42 0 0 1 458 603V433L324 284Z"/>
+  <!-- U -->
+  <path fill="#000000" d="M248 465H332V545A168 168 0 0 0 668 545V465H752V545A252 252 0 0 1 248 545Z"/>
+  <!-- dot -->
+  <path fill="#5798D7" d="M500 203A42 42 0 0 0 500 287Z"/>
+  <path fill="#B9C255" d="M500 203A42 42 0 0 1 500 287Z"/>
+</svg>
